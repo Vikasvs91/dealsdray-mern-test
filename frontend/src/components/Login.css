@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.form{
+    /* border: 1px solid white; */
+    /* margin-top: 10% ; */
+    align-items: center;
+    text-align: center;
+    
+}
+.log{
+    color: orangered;
+    font-size: 30px;
+}
+.username,.password{
+    padding: 6%;
+}
+.form1{
+    border: 1px solid whitesmoke;
+    border-radius: 9px;
+    width: 400px;
+    height: 300px;
+    margin-left: 34%;
+    margin-top: 2%;
+    padding-top: 5%;
+}
+.use{
+    padding-right: 10px;
+}
+.box{
+    border: none;
+    height: auto;
+    outline: none;
+    border-bottom: 2px solid whitesmoke;
+}
+.login{
+    width: 80px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 10%;
+    background-color: transparent;
+    color: orangered;
+    border-radius: 10px;
+    border: solid whitesmoke;
+}
